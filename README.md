@@ -1,6 +1,11 @@
 ## home page(initial)
 ![image](https://user-images.githubusercontent.com/81766772/152793807-f2ba5c4e-5820-45a8-a153-8b38f0dda6fd.png)
 
+## A demo 
+![image](https://user-images.githubusercontent.com/81766772/152794698-d685e0e7-e043-44fb-97fa-6ccd284a40e1.png)
+
+## light mode
+![image](https://user-images.githubusercontent.com/81766772/152794882-133b69de-67e0-4764-865c-be4b4927d34e.png)
 
 # Getting Started with Create React App
 
