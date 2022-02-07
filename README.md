@@ -9,7 +9,10 @@
 
 ## features available(functionality)
 ![image](https://user-images.githubusercontent.com/81766772/152795085-34c1f165-fcc6-4b50-8b11-24d91753b21f.png)
-
+1. zoom in
+2. zoom out
+3. screen fit
+4. lock or unlock
 
 # Getting Started with Create React App
 
