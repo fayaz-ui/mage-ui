@@ -7,6 +7,10 @@
 ## light mode
 ![image](https://user-images.githubusercontent.com/81766772/152794882-133b69de-67e0-4764-865c-be4b4927d34e.png)
 
+## features available(functionality)
+![image](https://user-images.githubusercontent.com/81766772/152795085-34c1f165-fcc6-4b50-8b11-24d91753b21f.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
