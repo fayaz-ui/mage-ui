@@ -9,6 +9,7 @@
 
 ## features available(functionality)
 ![image](https://user-images.githubusercontent.com/81766772/152795085-34c1f165-fcc6-4b50-8b11-24d91753b21f.png)
+![image](https://user-images.githubusercontent.com/81766772/152795703-06815fb0-b5e1-4767-85d8-bb4ee3af3d07.png)
 1. zoom in
 2. zoom out
 3. screen fit
